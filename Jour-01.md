@@ -8,7 +8,7 @@
 
 - [x] Comprendre la structure du code et la syntaxe en JavaScript :
   - [x] EcmaScript vs JavaScript
-    - [ ] l'importance de la ponctuation
+    - [x] l'importance de la ponctuation
     - [ ] standard & environnement d'exécution
   - [ ] ce qu'est une instruction
   - [ ] ce qu'est l'insertion automatique (ou implicite) de point-virgule
