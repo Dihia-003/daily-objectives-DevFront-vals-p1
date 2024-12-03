@@ -10,7 +10,7 @@
   - [x] EcmaScript vs JavaScript
     - [x] l'importance de la ponctuation
     - [x] standard & environnement d'exécution
-  - [ ] ce qu'est une instruction
+  - [x] ce qu'est une instruction
   - [ ] ce qu'est l'insertion automatique (ou implicite) de point-virgule
   - [ ] les commentaires
 - [ ] Découvrir l'écosystème JavaScript :
