@@ -11,7 +11,7 @@
     - [x] l'importance de la ponctuation
     - [x] standard & environnement d'exécution
   - [x] ce qu'est une instruction
-  - [ ] ce qu'est l'insertion automatique (ou implicite) de point-virgule
+  - [x] ce qu'est l'insertion automatique (ou implicite) de point-virgule
   - [ ] les commentaires
 - [ ] Découvrir l'écosystème JavaScript :
   - [ ] à quoi sert use-strict et comment l'utiliser (ES5, ES6+, etc ...)
