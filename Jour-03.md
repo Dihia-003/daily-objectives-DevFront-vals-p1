@@ -8,7 +8,7 @@
   - [x] while
   - [x] do while
   - [x] for
-  - [ ] break / continue
+  - [x] break / continue
 - [ ] Comprendre le "switch" en JavaScript (https://fr.javascript.info/switch)
 - [ ] Comprendre le fonctionnement des fonctions en JavaScript
 
