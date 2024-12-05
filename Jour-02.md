@@ -13,6 +13,6 @@
   - [x] ternaire
 - [x] Comprendre le fonctionnement des opérateurs logiques (https://fr.javascript.info/logical-operators)
   - [x] `||` (OR)
-  - [ ] `&&` (AND)
+  - [x] `&&` (AND)
   - [ ] `!` (NOT)
   - [ ] `??` (Coalescence des nulles)[https://fr.javascript.info/nullish-coalescing-operator]
