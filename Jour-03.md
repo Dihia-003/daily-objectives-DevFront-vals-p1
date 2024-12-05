@@ -5,7 +5,7 @@
 ### Javascript :
 
 - [x] Comprendre l'intérêt et le fonctionnement des boucles en JavaScript (https://fr.javascript.info/while-for)
-  - [ ] while
+  - [x] while
   - [ ] do while
   - [ ] for
   - [ ] break / continue
