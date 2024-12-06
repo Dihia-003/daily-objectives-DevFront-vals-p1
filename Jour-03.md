@@ -10,7 +10,7 @@
   - [x] for
   - [x] break / continue
 - [x] Comprendre le "switch" en JavaScript (https://fr.javascript.info/switch)
-- [ ] Comprendre le fonctionnement des fonctions en JavaScript
+- [x] Comprendre le fonctionnement des fonctions en JavaScript
 
   - [ ] Fonctions Déclarations (https://fr.javascript.info/function-basics)
   - [ ] Fonctions Expressions (https://fr.javascript.info/function-expressions)
