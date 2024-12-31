@@ -40,10 +40,10 @@
 ---
 
 ### Approfondissement
-- [ ] **Comprendre les défis des tests d’intégration :**
-  - [ ] **Mock ou pas mock ?**  
+- [x] **Comprendre les défis des tests d’intégration :**
+  - [x] **Mock ou pas mock ?**  
     Explorer les cas où il est pertinent de simuler les données ou d'utiliser de véritables ressources.
-  - [ ] **Test des scénarios complexes :**  
+  - [x] **Test des scénarios complexes :**  
     Tester des chaînes d’interactions pour valider des cas d’utilisation plus élaborés.
 
 ---
