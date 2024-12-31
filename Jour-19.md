@@ -18,12 +18,12 @@
 ---
 
 ### Frameworks pour Tests d’Intégration
-- [ ] **Explorer les outils recommandés :**
-  - [ ] **Jest et Testing Library :**  
+- [x] **Explorer les outils recommandés :**
+  - [x] **Jest et Testing Library :**  
     Simplifie les tests d’interfaces utilisateur et d’intégration.
-  - [ ] **Supertest :**  
+  - [x] **Supertest :**  
     Teste les API REST en simulant les requêtes HTTP.
-  - [ ] **Cypress (optionnel) :**  
+  - [x] **Cypress (optionnel) :**  
     Un outil tout-en-un pour les tests end-to-end et d’intégration.
 
 ---
