@@ -29,12 +29,12 @@
 ---
 
 ### Mise en Pratique
-- [ ] **Créer un premier test d’intégration :**
-  - [ ] **Configurer un projet avec Jest :**  
+- [x] **Créer un premier test d’intégration :**
+  - [x] **Configurer un projet avec Jest :**  
     Installer Jest et configurer l’environnement de test.
-  - [ ] **Simuler un appel API :**  
+  - [x] **Simuler un appel API :**  
     Utiliser Supertest pour tester une API REST.
-  - [ ] **Tester une interaction simple entre composants :**  
+  - [x] **Tester une interaction simple entre composants :**  
     Vérifier qu’une liste d’éléments s’affiche correctement après une requête API.
 
 ---
