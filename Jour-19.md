@@ -7,12 +7,12 @@
 ## Découverte des Tests d’Intégration en JavaScript
 
 ### Tests d’Intégration
-- [ ] **Comprendre ce qu’est un test d’intégration :**
-  - [ ] **À quoi sert un test d’intégration ?**  
+- [x] **Comprendre ce qu’est un test d’intégration :**
+  - [x] **À quoi sert un test d’intégration ?**  
     Vérifier que plusieurs modules ou composants fonctionnent ensemble comme attendu.
-  - [ ] **Quelle différence avec un test unitaire ?**  
+  - [x] **Quelle différence avec un test unitaire ?**  
     Les tests d’intégration valident l’interaction entre des parties du système, tandis que les tests unitaires se concentrent sur des fonctions isolées.
-  - [ ] **Pourquoi réaliser des tests d’intégration ?**  
+  - [x] **Pourquoi réaliser des tests d’intégration ?**  
     Identifier les problèmes liés à l’interaction entre les différents modules avant la mise en production.
 
 ---
